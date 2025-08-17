@@ -17,6 +17,9 @@ A console-based Tic Tac Toe game in Java that allows two players (X and O) to pl
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run 
+```markdown
 1. Clone the repository:
-   ```bash https://github.com/Neha430/tictactoe-java-project.git
+   ```bash
+   git clone https://github.com/Neha430/tictactoe-java-project.git
+
